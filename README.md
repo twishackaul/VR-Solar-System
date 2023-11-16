@@ -1,2 +1,2 @@
 # VR-based-Solar-System
-Created a Vr-based Solar System using HTML, CSS & JavaScript with inbuilt a-frame. 
+Created a Vr-based Solar System using HTML with inbuilt a-frame properties, CSS & JavaScript.
